@@ -208,12 +208,16 @@
         }
       },
       "redpill_lkm": {
-        "source_url": "https://github.com/jimmyGALLAND/redpill-lkm.git",
+        "source_url": "https://github.com/jumkey/redpill-lkm.git",
         "branch": "develop"
       },
       "redpill_load": {
-        "source_url": "https://github.com/jimmyGALLAND/redpill-load.git",
+        "source_url": "https://github.com/jumkey/redpill-load.git",
         "branch": "develop"
+      },
+        "build_env": {
+        "jun_mod": 1,
+        "debug": 0
       }
     },
     {
@@ -235,12 +239,16 @@
         }
       },
       "redpill_lkm": {
-        "source_url": "https://github.com/jimmyGALLAND/redpill-lkm.git",
+        "source_url": "https://github.com/jumkey/redpill-lkm.git",
         "branch": "develop"
       },
       "redpill_load": {
-        "source_url": "https://github.com/pocopico/redpill-load.git",
+        "source_url": "https://github.com/jumkey/redpill-load.git",
         "branch": "develop"
+      },
+        "build_env": {
+        "jun_mod": 1,
+        "debug": 0
       }
     },
     {
@@ -293,12 +301,16 @@
         }
       },
       "redpill_lkm": {
-        "source_url": "https://github.com/dogodefi/redpill-lkm.git",
+        "source_url": "https://github.com/jumkey/redpill-lkm.git",
         "branch": "develop"
       },
       "redpill_load": {
-        "source_url": "https://github.com/pocopico/redpill-load.git",
+        "source_url": "https://github.com/jumkey/redpill-load.git",
         "branch": "develop"
+      },
+        "build_env": {
+        "jun_mod": 1,
+        "debug": 0
       }
     },
     {
@@ -347,15 +359,19 @@
         }
       },
       "redpill_lkm": {
-        "source_url": "https://github.com/RedPill-TTG/redpill-lkm.git",
+        "source_url": "https://github.com/jumkey/redpill-lkm.git",
         "branch": "master"
       },
       "redpill_load": {
-        "source_url": "https://github.com/tossp/redpill-load.git",
-        "branch": "42218-20211021"
-      }
-    },
-    {
+        "source_url": "https://github.com/jumkey/redpill-load.git",
+        "branch": "42218-20211021"   
+      },
+      "bulid_env": {
+      "jun_mod": 1,
+      "dubug": 0
+     }
+   },
+   {
       "id": "ds918p-7.1.0-42661",
       "platform_name": "DS918+",
       "platform_version": "apollolake-7.1.0-42661",
@@ -374,12 +390,16 @@
         }
       },
       "redpill_lkm": {
-        "source_url": "https://github.com/RedPill-TTG/redpill-lkm.git",
+        "source_url": "https://github.com/jumkey/redpill-lkm.git",
         "branch": "master"
       },
       "redpill_load": {
-        "source_url": "https://github.com/pocopico/redpill-load.git",
+        "source_url": "https://github.com/jumkey/redpill-load.git",
         "branch": "develop"
+      },
+        "bulid_env": {
+        "jun_mod": 1,
+        "dubug": 0
       }
     },
     {
@@ -408,7 +428,7 @@
         "source_url": "https://github.com/jumkey/redpill-load.git",
         "branch": "develop"
       },
-      "build_env": {
+        "build_env": {
         "jun_mod": 1,
         "debug": 0
       }
@@ -432,12 +452,16 @@
         }
       },
       "redpill_lkm": {
-        "source_url": "https://github.com/pocopico/redpill-lkm.git",
+        "source_url": "https://github.com/jumkey/redpill-lkm.git",
         "branch": "master"
       },
       "redpill_load": {
-        "source_url": "https://github.com/pocopico/redpill-load.git",
+        "source_url": "https://github.com/jumkey/redpill-load.git",
         "branch": "develop"
+      },
+        "build_env": {
+        "jun_mod": 1,
+        "debug": 0
       }
     },
     {
