@@ -1,4 +1,4 @@
-name: 构建ds3617xs 7.1.0-42661
+name: 构建ds3622xsp 7.0.1-42218
 
 on:
   workflow_dispatch:
